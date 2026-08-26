@@ -7,6 +7,11 @@
 ![Veny_](https://img.shields.io/badge/-Veny__Studio-6C63FF?style=for-the-badge)
 </div>
 <br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HmkSenpai/AwesomeReadme/main/dark_mode.svg">
+  
+  <img alt="Hmksenpai GitHub Stats" src="https://raw.githubusercontent.com/HmkSenpai/AwesomeReadme/main/dark_mode.svg">
+</picture>
 
 ## 🎨 Dev & Design
 
@@ -39,22 +44,3 @@ Arène PvP réseau en **temps réel** : diagnostic, commandes chronométrées, d
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-![Private](https://img.shields.io/badge/repos-privés-2b2b2b?style=flat-square)
-
-</div>
-<br/>
-
-## 📊 Stats
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hmksenpai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=Hmksenpai&color=6C63FF&style=flat-square&label=Vues+du+profil)
-
-</div>
