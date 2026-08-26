@@ -29,7 +29,12 @@
 <td width="50%">
 
 ### 🧠 USBrain
-Assistant éducatif IA **offline**, livré par clé USB, pour zones à faible connectivité.
+Assistant éducatif IA **offline**, conçu pour les zones à faible connectivité, avec une diffusion par clé USB et un accès intelligent hors ligne.
+
+<div align="left">
+  <strong>🏆 Meilleur projet — JUIN 2026</strong><br>
+  <strong>💼 Financement du ministère des APME</strong>
+</div>
 
 `Python` `Flask` `RAG` `ChromaDB`
 
