@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=✦Hinmaka;Graphiste+%2B+D%C3%A9veloppeur;Believe in DevArt✦;Fondateur+de+Veny_+%F0%9F%8E%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hinmaka;Designer+%2B+Developper;Believe+in+Art;Founder+of+Veny_" alt="Typing SVG" />
 <br/>
   
 ![Cameroun](https://img.shields.io/badge/-Yaoundé,%20Cameroun-6C63FF?style=for-the-badge)
@@ -32,9 +32,9 @@
 Assistant éducatif IA **offline**, conçu pour les zones à faible connectivité, avec une diffusion par clé USB et un accès intelligent hors ligne.
 
 <div align="left">
-  <strong>🏆 Meilleur projet — JUIN 2026</strong><br>
+  <strong>🏆 Meilleur projet - JUIN 2026</strong><br>
   <strong>💼 Financement du ministère des APME</strong>
-</div>
+</div></br>
 
 `Python` `Flask` `RAG` `ChromaDB`
 
@@ -43,6 +43,11 @@ Assistant éducatif IA **offline**, conçu pour les zones à faible connectivit�
 
 ### ⚔️ NetBattle
 Arène PvP réseau en **temps réel** : diagnostic, commandes chronométrées, défense DDoS.
+
+<div align="left">
+  <strong>🚀 Lancement dans 99:99:99 </strong><br>
+  <strong>🎮 +100 parties jouées </strong>
+</div></br>
 
 `Web` `Multijoueur` `Temps réel`
 
