@@ -16,9 +16,9 @@
 ## 🎨 Dev & Design
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,next,linux,bash,figma,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,next,react,postgres,supabase,figma,html,css,js,&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=ps,ae,pr&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ps,ae,pr,blender,godot&theme=dark" />
 </div>
 
 <br/>
