@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hinmaka;Designer+%2B+Developper;Believe+in+Art;Founder+of+Veny_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hinmaka;Designer+%2B+Developper;Believe+in+Art;Co-Founder+of+Veny_" alt="Typing SVG" />
 <br/>
   
 ![Cameroun](https://img.shields.io/badge/-Yaoundé,%20Cameroun-6C63FF?style=for-the-badge)
