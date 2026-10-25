@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hinmaka;Designer+%2B+Developper;Believe+in+Art;Co-Founder+of+Veny_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hinmaka;Designer+%2B+Developer;Believe+in+Art;Co-Founder+of+Veny_" alt="Typing SVG" />
 <br/>
   
 ![Cameroun](https://img.shields.io/badge/-Yaoundé,%20Cameroun-6C63FF?style=for-the-badge)
@@ -45,11 +45,38 @@ Assistant éducatif IA **offline**, conçu pour les zones à faible connectivit�
 Arène PvP réseau en **temps réel** : diagnostic, commandes chronométrées, défense DDoS.
 
 <div align="left">
-  <strong>🚀 Lancement dans 99:99:99 </strong><br>
-  <strong>🎮 +100 parties jouées </strong>
+  <strong>🚀 Lancement dans bientot </strong><br>
+  <strong>🎮 +100 parties testées </strong>
 </div></br>
 
 `Web` `Multijoueur` `Temps réel`
+
+</td>
+</tr>
+<tr>
+  <td width="50%">
+
+### 🖼️ EventFrame
+L'evenementiel rendu plus facile : Badge participant , automatisation speaker , sponsors , MCP et API 
+ 
+<div align="left">
+  <strong>📛 Page participant , speakers , sponsors </strong><br>
+  <strong>🤖 MCP et API pour un control total par un agent IA </strong>
+</div></br>
+
+`MCP` `Slug` `Studio`
+
+</td>
+<td width="50%">
+
+### Autre Projet
+En cours . . . 
+<div align="left">
+  <strong> <img width="500" height="500" alt="Spin@1x-1 0s-200px-200px" src="https://github.com/user-attachments/assets/3f36abe9-790b-4192-9c96-b7e9a498a105" />
+ </strong><br>
+  <strong></strong>
+</div></br>
+
 
 </td>
 </tr>
