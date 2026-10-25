@@ -72,7 +72,7 @@ L'evenementiel rendu plus facile : Badge participant , automatisation speaker , 
 ### Autre Projet
 En cours . . . 
 <div align="left">
-  <strong> <img width="500" height="500" alt="Spin@1x-1 0s-200px-200px" src="https://github.com/user-attachments/assets/3f36abe9-790b-4192-9c96-b7e9a498a105" />
+  <strong><img width="40" height="40" alt="icons8_buffering_480px" src="https://github.com/user-attachments/assets/175094c9-87f6-44c9-ae34-38da093425a7" />
  </strong><br>
   <strong></strong>
 </div></br>
